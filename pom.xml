@@ -4,7 +4,7 @@
 
   <groupId>sonar_test</groupId>
   <artifactId>com.sonar.maven</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>com.sonar.maven</name>
@@ -12,7 +12,7 @@
   
   <properties>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  <sonar.host.url>http://35.192.17.97:9000</sonar.host.url>
+  <sonar.host.url>http://35.188.92.44:9000</sonar.host.url>
   <sonar.login>admin</sonar.login>
   <sonar.password>admin123</sonar.password>
   </properties>
