@@ -36,7 +36,7 @@
     <id>nexus</id>
     <url>http://35.184.20.47:8081/nexus/content/repositories/releases</url>
   </repository>
-</distributionManagement>
+
     
   </distributionManagement>
   
